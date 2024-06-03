@@ -1,0 +1,14 @@
+<pessoa>
+  <nome>João</nome>
+  <idade>30</idade>
+  <cidade>São Paulo</cidade>
+  <emails>
+    <email>joao@example.com</email>
+  </emails>
+  <ativo>true</ativo>
+  <endereco>
+    <rua>Rua Principal</rua>
+    <numero>123</numero>
+    <cep>12345-678</cep>
+  </endereco>
+</pessoa>

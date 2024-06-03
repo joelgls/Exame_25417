@@ -1,0 +1,17 @@
+{
+    "nome": "João",
+    "idade": 30,
+    "cidade": "São Paulo",
+    "email": ["joao@example.com"],
+    "ativo": true,
+    "endereco":
+    {
+      "rua": "Rua Principal",
+      "numero": 123,
+      "cep": "12345-678"
+    }
+    
+}
+
+
+  
